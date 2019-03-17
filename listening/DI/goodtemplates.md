@@ -1,0 +1,1 @@
+Horizontal  line  on  the  graph  indicates  there  is  no  change.
